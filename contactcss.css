@@ -1,0 +1,187 @@
+.body{
+ background-color: HSLA(195,100%,40%,0.3);
+ background-image: url("res01.jpg");
+ background-repeat: repeat;
+ padding-bottom: 40px;
+}
+.H1{
+ font-family:serif;
+ font-size:50px;
+ font-weight:100;
+ text-indent:20px;
+ letter-spacing:1.7px;
+ text-shadow:HSLA(39,79%,40%,.7) 3px 3px 4px;
+ background-color: HSLA(40,80%,90%,.8);
+ height:60px;
+}
+.Nav{
+ text-indent:25px;
+ display:inline;
+ font-family:sans-serif;
+ color: HSLA(40,80%,40%,.9);
+ font-size: 18px;
+ font-weight:50;
+ word-spacing:9px;
+ height:27px;
+}
+a:link{
+ color:HSLA(180,20%,60%,0.9);
+ background-color:HSLA(0,0%,90%,0.7);
+ text-decoration:underline;
+ text-decoration-skip: spaces;
+ text-decoration-color: chocolate;
+}
+a:active{
+ color:HSLA(0,59%,60%,0.9);
+ background-color:HSLA(60,100%,90%,0.7);
+ text-decoration:underline;
+ text-decoration-skip:spaces;
+ text-decoration-color: #e6ffe6;
+}
+a:visited{
+ color:HSLA(60,33%,30%,0.9);
+ background-color:HSLA(60,33%,75%,0.7);
+ text-decoration:underline;
+ text-decoration-skip:spaces;
+ text-decoration-color:#99e6ff;
+}
+a:hover{
+ color:HSLA(120,100%,40%,0.9);
+ background-color:HSLA(120,100%,85%,0.7);
+ text-decoration:underline;
+ text-decoration-skip: spaces;
+ text-decoration-color: aqua;
+}
+.contact{
+ font-family:serif;
+ font-size:60px;
+ font-style:italic;
+ font-weight: 400;
+ text-indent:20px;
+ font-variant: small-caps;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ text-decoration: underline;
+ text-shadow: #66ffff 1px 1px 1px;
+ background-color: HSLA(60,100%,90%,0.4);
+ width:270px;
+}
+.an{
+ text-indent:25px;
+ font-family:sans-serif;
+ font-size: 20px;
+ margin-bottom: 100px;
+ line-height: 36px;
+}
+.caption{
+ caption-side: top;
+ font-family:sans-serif;
+ font-size: 19px;
+ font-weight:100;
+ line-height: 23px;
+ text-align:center;
+ vertical-align: middle;
+}
+.table{
+ background-color: HSLA(240,100%,90%,0.6);
+ empty-cells: hide;
+}
+#Monday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 30px;
+ width:160px;
+ height:35px;
+}
+#Tuesday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 30px;
+ width:160px;
+ height:35px;
+}
+#Wednesday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 30px;
+ width:160px;
+ height:35px;
+}
+#Thursday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 30px;
+ width:160px;
+ height:35px;
+}
+#Friday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing:30px;
+ width:160px;
+ height:35px;
+}
+#Saturday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 30px;
+ width:160px;
+ height:35px;
+}
+#Sunday{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 12px;
+ width:160px;
+ height:35px;
+}
+#Breakfast{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 12px;
+ width:160px;
+ height:35px;
+}
+#Lunch{
+ font-family: serif;
+ font-size: 30px;
+ font-weight: 70;
+ font-style:italic;
+ background-color: HSLA(60,100%,90%,0.6);
+ border-spacing: 12px;
+ width:160px;
+ height:35px;
+}
+.content1{
+ text-align: center;
+ vertical-align: middle;
+}
+
+.content2{
+ text-align: center;
+ vertical-align: middle;
+}

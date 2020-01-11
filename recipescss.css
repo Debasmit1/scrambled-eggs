@@ -1,0 +1,117 @@
+.body{
+ background-color: mistyrose;
+ background-image: url("table.jpg");
+ padding-bottom: 15px;
+ background-repeat:repeat;
+}
+.H1{
+ text-indent: 25px;
+ font-family:serif;
+ font-size:52px;
+ font-weight: 30;
+ color:black;
+ text-shadow:lightyellow 3px 3px 4px;
+ background-color: #f0f8ff;
+ opacity:90%;
+ height:65px;
+}
+.Nav{
+ display:inline;
+ text-indent:20px;
+ font-family:serif;
+ color: HSLA(40,80%,10%,.4);
+ font-size:22px;
+ font-weight:75;
+ word-spacing: 8.5px;
+}
+a:link{
+ color:crimson;
+ background-color: cornsilk;
+ text-decoration: underline;
+ text-decoration-color: aquamarine;
+ text-decoration-skip: spaces;
+ opacity:70%;
+}
+ a:active{
+ color:black; 
+ background-color: greenyellow;
+ text-decoration: underline;
+ text-decoration-color: white;
+ text-decoration-skip: spaces;
+ opacity:70%; 
+ }
+a:visited{
+ color:brown;
+ background-color: burlywood;
+ text-decoration: underline;
+ text-decoration-color: darkgreen;
+ text-decoration-color: spaces;
+ opacity:70%;
+}
+ a:hover{
+  color:lawngreen;
+  background-color: gainsboro;
+  text-decoration:underline;
+  text-decoration-color: chartreuse;
+  text-decoration-skip:spaces;
+  transform:scale(2);
+  opacity:70%;
+}
+div.P1{
+ font-family: sans-serif;
+ font-size: 20px;
+ font-weight: 100;
+ line-height: 38px;
+ margin-top:  190px;
+ text-align: center;
+ margin-bottom: 200px;
+ text-indent: 20px;
+}
+.header{
+ font-family: sans-serif;
+ font-size: 70px;
+ font-weight: 500;
+ font-style:italic;
+ font-variant:small-caps;
+ color:black;
+ text-indent:15px;
+ margin-bottom:100px;
+}
+.P{
+ text-indent:15px;
+ font-family:sans-serif;
+ font-size:29px;
+ font-weight:200;
+ font-style: oblique;
+ font-variant: normal;
+
+ width:600px;
+ height:32px;
+ opacity:75%;
+}
+.list{
+ margin-top:160px;
+ line-height:24px;
+ font-family:sans-serif;
+ font-size:20px;
+ font-weight:70;
+ text-indent: 25px;
+ background-color:#d9fff7;
+ opacity:50%;
+ width:auto;
+ margin-bottom:150px;
+}
+.i{
+ background-color:#6699ff;
+ opacity:37%;
+ border-radius:12px;
+ text-decoration: underline;
+}
+.lp{
+ font-family: sans-serif;
+ font-weight;50;
+ text-indent: 20px;
+}
+.lp:first-letter{
+ font-size:20px;
+}
